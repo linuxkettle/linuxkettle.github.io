@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# linux_kettle
+I like Linux, programming, tinkering, and tinkering with programming on Linux.
 
-You can use the [editor on GitHub](https://github.com/linuxkettle/linuxkettle.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## More about me
+I made a game called Kettle3D, it's bad and doesn't work, but it's on GitHub and it's a good time capsule from my
+Windows days. I now use Arch Linux, and program with GTK and am notoriously bad at putting my stuff on GitHub.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/linuxkettle/linuxkettle.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## What goes here
+This will be filled with blog about tinkering with linux and programiming, but that's not ready just yet. Stay tuned!
