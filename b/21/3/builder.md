@@ -11,3 +11,5 @@ GNOME Builder, or just Builder, is an IDE (intergrated development environment) 
 
 # What am I comparing this to?
 I used to use Visual Studio for programming back in my Windows days. It did what I needed it to, but it was complicating to use and very s       l      o     w. Then, when I transferred to Linux (a move I don't regret), I used VS Code with C# for a while, but it doesn't work great with Linux, and my options for graphical apps were very limited. Then when I switched from Ubuntu to Arch Linux in December, I decided to try out Qt Creator.
+
+*still not finished, bear with me please, I'm trying a git experiment.*
