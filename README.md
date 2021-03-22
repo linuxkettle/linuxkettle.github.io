@@ -1,6 +1,8 @@
 # linux_kettle
 I like Linux, programming, tinkering, and tinkering with programming on Linux.
 
+![I'm also on Stack Overflow](https://stackoverflow.com/users/flair/14031662.png?theme=dark)
+
 ## Recent posts
 
 [Fedora 33: Well worth a try!](./b/21/3/fedora)
