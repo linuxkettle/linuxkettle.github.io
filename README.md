@@ -3,6 +3,8 @@ I like Linux, programming, tinkering, and tinkering with programming on Linux.
 
 ## Recent posts
 
+[Fedora 33: Well worth a try!](./b/21/3/fedora)
+
 [I just discovered a great new IDE called GNOME Builder](./b/21/3/builder)
 
 ## About me
