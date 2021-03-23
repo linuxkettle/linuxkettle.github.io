@@ -1,7 +1,7 @@
 # linux_kettle
 I like Linux, programming, tinkering, and tinkering with programming on Linux.
 
-![I'm also on Stack Overflow](https://stackoverflow.com/users/flair/14031662.png?theme=dark)
+[![I'm also on Stack Overflow](https://stackoverflow.com/users/flair/14031662.png)](https://stackoverflow.com/users/14031662/linux-kettle?tab=profile)
 
 ## Recent posts
 
