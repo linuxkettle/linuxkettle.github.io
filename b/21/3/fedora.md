@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fedora 33: Well worth a try!
-description: I didn't like Fedora 32, but this (not exactly new) release is great!
+description: I didn't like Fedora 32, but this release is great!
 ---
 
 [linux_kettle](/) / **Fedora 33: Well worth a try!**
