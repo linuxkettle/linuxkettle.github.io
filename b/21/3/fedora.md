@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fedora 33\: Well worth a try!
+title: Fedora 33 - Well worth a try!
 description: I didn't like Fedora 32, but this release is great!
 ---
 
